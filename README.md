@@ -1,6 +1,6 @@
 # Shakespeare-Imitator-
 
-A quick NLP project using shakespeare sonets. Try changing variable n on line 69 to see if your sonet sounds more or less "shakespeare-y".
+A quick NLP project using shakespeare sonnets. Try changing variable n on line 69 to see if your sonet sounds more or less "shakespeare-y".
 Output should look something like this:
 
 
